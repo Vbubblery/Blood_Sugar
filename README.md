@@ -8,7 +8,7 @@ Go to [`ramp-worflow`](https://github.com/paris-saclay-cds/ramp-workflow) for mo
 
 Install ramp-workflow (rampwf), then execute
 
-```
+```python
 ramp_test_submission
 ```
 
